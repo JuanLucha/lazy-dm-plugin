@@ -5,8 +5,8 @@
 	"version": "0.1.0",
 	"title": "Lazy DM Plugin",
 	"category": "widgets",
-	"icon": "smiley",
-	"description": "Example static block scaffolded with Create Block tool.",
+	"icon": "book",
+	"description": "Plugin to prepare roleplaying sessions following the Lazy DM method by Mike Shea",
 	"supports": {
 		"html": false
 	},
