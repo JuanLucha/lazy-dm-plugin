@@ -24,7 +24,6 @@ import { InnerBlocks, useBlockProps } from "@wordpress/block-editor";
  */
 export default function save() {
 	const saveinfo = useBlockProps.save();
-	console.log("pepe", saveinfo);
 	return (
 		<div {...saveinfo}>
 			<InnerBlocks.Content />
