@@ -1,4 +1,4 @@
-=== Lazy DM Plugin ===
+=== Lazy DM Roleplaying Session Planner ===
 Contributors:      Juan Lucha <juanlucha@gmail.com>
 Tags:              DM,roleplaying,DnD,FateRPG,block
 Tested up to:      6.0
@@ -19,7 +19,7 @@ With this plugin you can include your Lazy DM preparation in your WordPress post
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/lazy-dm-plugin` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/lazy-dm-roleplaying-session-planner` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Include the Lazy DM block in your posts.
 
