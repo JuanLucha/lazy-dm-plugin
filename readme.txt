@@ -1,6 +1,6 @@
 === Lazy DM Plugin ===
 Contributors:      Juan Lucha <juanlucha@gmail.com>
-Tags:              DM,roleplaying
+Tags:              DM,roleplaying,DnD,FateRPG
 Tested up to:      6.0
 Stable tag:        0.1.0
 License:           GPL-2.0-or-later

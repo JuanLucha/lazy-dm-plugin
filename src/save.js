@@ -26,8 +26,8 @@ export default function save() {
 	const saveinfo = useBlockProps.save();
 	console.log("pepe", saveinfo);
 	return (
-		<span {...saveinfo}>
+		<div {...saveinfo}>
 			<InnerBlocks.Content />
-		</span>
+		</div>
 	);
 }

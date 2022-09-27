@@ -3,7 +3,7 @@
 	"apiVersion": 2,
 	"name": "create-block/lazy-dm-plugin",
 	"version": "0.1.0",
-	"title": "Lazy DM Plugin",
+	"title": "Lazy DM Roleplaying Session Planner",
 	"category": "widgets",
 	"icon": "book",
 	"description": "Plugin to prepare roleplaying sessions following the Lazy DM method by Mike Shea",
