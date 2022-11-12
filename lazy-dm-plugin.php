@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Lazy DM Plugin
+ * Plugin Name:       Lazy DM Roleplaying Session Planner
  * Description:       Block for preparing a roleplaying session using the Lazy DM method, from Mike Shea. More info here: https://slyflourish.com/
  * Requires at least: 5.9
  * Requires PHP:      7.0
@@ -8,9 +8,9 @@
  * Author:            Juan Lucha <juanlucha@gmail.com>
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       lazy-dm-plugin
+ * Text Domain:       lazy-dm-roleplaying-session-planner
  *
- * @package           create-block
+ * @package           juanlucha
  */
 
 /**
@@ -20,7 +20,7 @@
  *
  * @see https://developer.wordpress.org/reference/functions/register_block_type/
  */
-function create_block_lazy_dm_plugin_block_init() {
+function juanlucha_lazy_dm_roleplaying_session_planner_block_init() {
 	register_block_type( __DIR__ . '/build' );
 }
-add_action( 'init', 'create_block_lazy_dm_plugin_block_init' );
+add_action( 'init', 'juanlucha_lazy_dm_roleplaying_session_planner_block_init' );
