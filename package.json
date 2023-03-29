@@ -1,8 +1,8 @@
 {
 	"name": "lazy-dm-roleplaying-session-planner",
-	"version": "0.1.0",
-	"description": "Example static block scaffolded with Create Block tool.",
-	"author": "The WordPress Contributors",
+	"version": "1.0.1",
+	"description": "Plugin to prepare roleplaying sessions following the Lazy DM method by Mike Shea",
+	"author": "Juan Lucha <juanlucha@gmail.com>",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
 	"scripts": {
